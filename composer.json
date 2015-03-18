@@ -12,7 +12,8 @@
     }
     ],
         "require": {
-            "php": ">=5.3.0"
+            "php": ">=5.3.0",
+            "bosha/ptel" : "dev-master"
         },
         "autoload": {
             "psr-4": {
